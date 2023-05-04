@@ -29,75 +29,75 @@
           <div class="container-fluid ">
 
               <br>
-              <!-- Developer 1 Mr. Shashi Raj-->
+              <!-- Developer 1 Mr. Nazir-->
                 <div class="col-md-3 col-xs-12 col-sm-3" >
                   <div class="col-md-5 col-xs-5 col-sm-5">
-                    <img src="images/Photoscan18.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Shashi Raj Site Developer" title="Mr. Shashi Raj"/>
+                    <img src="images/Nazir.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Shashi Raj Site Developer" title="Mr. Shashi Raj"/>
                   </div>
                   <div class="col-md-7 col-xs-7 col-sm-7">
                     <div class="developers pull-left" style="font-weight: bold; color:white;text-align: center;">
                     <br/>
-                    <span style="font-size: 1.7em; color:red">Mr. Shashi Raj</span>
+                    <span style="font-size: 1.7em; color:red">Mr. Nazir</span>
 <!--                     <p><span>Web Developer</span></p>
  -->                    <p>16 / IT / 14</p>
                     </div>
                   </div>
                 </div>
 
-              <!-- Developer 2 Ms. Ahana Guchait -->
+              <!-- Developer 2 Mr. Ajinkya -->
                 <div class="col-md-2 col-xs-12 col-sm-2">
                   <div class="col-md-5 col-xs-5 col-sm-5">
-                    <img src="images/nun.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Ahana Guchait Site Developer" title="Mr. Ahana Guchait">
+                    <img src="images/Ajinkya.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Ahana Guchait Site Developer" title="Mr. Ahana Guchait">
                   </div>
                   <div class="col-md-7 col-xs-7 col-sm-7">
                     <div class="developers pull-left" style="font-weight: bold; color:white;text-align: center;">
                     <br/>
-                    <span style="font-size: 1.7em; color:red">Ms. Ahana Guchait</span>
+                    <span style="font-size: 1.7em; color:red">Mr. Ajinkya./span>
 <!--                     <p><span>Web Designer</span></p>
  -->                    <p>16 / CSE / 135</p>
                     </div>
                   </div>
                 </div>
 
-              <!-- Developer 3 Ms. Deep Shikha -->
+              <!-- Developer 3 Mr dake -->
               <div class="col-md-2 col-xs-12 col-sm-2">
                 <div class="col-md-5 col-xs-5 col-sm-5">
-                  <img src="images/deepshikha.png" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Deep Shikha Site Developer" title="Mr. Deep shikha">
+                  <img src="images/dake.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Deep Shikha Site Developer" title="Mr. Deep shikha">
                 </div>
                 <div class="col-md-7 col-xs-7 col-sm-7">
                   <div class="developers pull-left" style="font-weight: bold; color:white;text-align: center;">
                   <br/>
-                  <span style="font-size: 1.7em; color:red">Ms. Deep Shikha</span>
+                  <span style="font-size: 1.7em; color:red">Mr. Eknath</span>
 <!--                   <p><span>Web Designer</span></p>
  -->                  <p>16 / IT / 47</p>
                   </div>
                 </div>
               </div>
 
-              <!-- Developer 4 Ms. Manjusa Barman -->
+              <!-- Developer 4 Miss. Rajshri -->
                 <div class="col-md-2 col-xs-12 col-sm-2">
                   <div class="col-md-5 col-xs-5 col-sm-5">
-                    <img src="images/nun.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Manjusa Barman Site Developer" title="Mr. Manjusa Barman">
+                    <img src="images/Rajshri.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Manjusa Barman Site Developer" title="Mr. Manjusa Barman">
                   </div>
                   <div class="col-md-7 col-xs-7 col-sm-7">
                     <div class="developers pull-left" style="font-weight: bold; color:white;text-align: center;">
                     <br/>
-                    <span style="font-size: 1.7em; color:red">Ms. Manjusha Barman</span>
+                    <span style="font-size: 1.7em; color:red">Miss. Rajshri</span>
 <!--                     <p><span>Web Designer</span></p>
  -->                    <p>16 / CSE / 89</p>
                     </div>
                   </div>
                 </div>
                 
-                <!-- Developer 5 Mr. Ayush Dutta-->
+                <!-- Developer 5 Mr. Aayush -->
                  <div class="col-md-3 col-xs-12 col-sm-3">
                     <div class="col-md-5 col-xs-5 col-sm-5">
-                    <img src="images/ayush.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Ayush Dutta Site Developer" title="Mr. Ayush Dutta">
+                    <img src="images/Aayush.jpg" class="img-responsive img-circle pull-right" style="width:105px;height:130px;"alt="Ayush Dutta Site Developer" title="Mr. Ayush Dutta">
                     </div>
                   <div class="col-md-7 col-xs-7 col-sm-7">
                     <div class="developers pull-left" style="font-weight: bold; color:white;text-align: center;">
                     <br/>
-                    <span style="font-size: 1.7em; color:red">Mr. Ayush Dutta</span>
+                    <span style="font-size: 1.7em; color:red">Mr. Aayush </span>
 <!--                     <p><span>Web Tester</span></p>
  -->                    <p>16 / IT / 49</p>
                     </div>
@@ -106,13 +106,13 @@
                  <hr/>
                  <br/>
                  <!-- <div style="color:white;text-align: center;">
-                      <span>&copy; Copyright 2018</span><p> Aryabhatt Central Library</p>
+                      <span>&copy; Copyright 2023</span><p> Aryabhatt Central Library</p>
                 </div> -->
           </div> <!-- End of container class-->
     </div><!-- End of navbar class-->
   </div><!-- End of footer class-->
   <div class="navbar-inverse" style="color:white;padding:05px;margin-bottom:-17px;text-align: center;background-color:green; border-radius: 0px">
-                      <span style="float:left;padding-left: 6.5%">&copy; Copyright 2019</span><span style="padding-left:5%;">&nbsp; Tender Management Portal</span><span style="float:right;padding-right: 6%" class="hidden-xs">&nbsp;...THANKS FOR VISITING...</span>
+                      <span style="float:left;padding-left: 6.5%">&copy; Copyright 2023</span><span style="padding-left:5%;">&nbsp; Tender Management Portal</span><span style="float:right;padding-right: 6%" class="hidden-xs">&nbsp;...THANKS FOR VISITING...</span>
 </div><br/>
  <script src="js/jquery-2.1.4.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
